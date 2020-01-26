@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Crystal",
+        "user_name" : "crys80",
+        "contact_n" : "9232457603",
+        "email": "crys@gmail.com",
+        "password" : "abc1",
+        "address" : "Andheri",
+        "active_since" : 1980,
+        "description" : "Trust us"
+            
+    },
+    {
+        "name":"Diamond",
+        "user_name" : "dia92",
+        "contact_n" : "9236857603",
+        "email": "dia@gmail.com",
+        "password" : "abc2",
+        "address" : "Churchgate",
+        "active_since" : 1992,
+        "description" : "Believe us"
+            
+    },
+    {
+        "name":"Platinum",
+        "user_name" : "plat83",
+        "contact_n" : "8232457609",
+        "email": "plat@gmail.com",
+        "password" : "abc3",
+        "address" : "Borivali",
+        "active_since" : 1983,
+        "description" : "Thank us"
+            
+    },
+    {
+        "name":"Silver",
+        "user_name" : "ag70",
+        "contact_n" : "9232488103",
+        "email": "agshine@gmail.com",
+        "password" : "abc4",
+        "address" : "Malad",
+        "active_since" : 1970,
+        "description" : "Chill with us"
+            
+    },
+    {
+        "name":"Gold",
+        "user_name" : "au99",
+        "contact_n" : "9932457428",
+        "email": "sona@gmail.com",
+        "password" : "abc5",
+        "address" : "Vile Parle",
+        "active_since" : 1999,
+        "description" : "Buy us"
+            
+    }
+]
