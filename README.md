@@ -19,4 +19,4 @@ ReactJs, Node, Material-UI, Mongodb, JSX, ES6, HTML, CSS
 
 <h5> Issues Encountered <h5/>
 
-We tried to implement Google maps geolocation API to get the live location of user in the step or alerting us about any homeless person's location but we ran into some bugs and finally we had to drop the idea because of the limited 7 hour time constraint and the fact that we had to pay to get the API access
+We tried to implement Google maps geolocation API to get the live location of user in the step of alerting us about any homeless person's location but we ran into some bugs and finally we had to drop the idea because of the limited 7 hour time constraint and the fact that we had to pay to get the API access
